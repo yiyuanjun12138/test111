@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" build-on-make="true" name="SHOPweb:war2">
+    <output-path>$PROJECT_DIR$/out/artifacts/SHOP_war</output-path>
+    <root id="archive" name="SHOPweb_war.war">
+      <element id="artifact" artifact-name="SHOPweb:war exploded" />
+    </root>
+  </artifact>
+</component>

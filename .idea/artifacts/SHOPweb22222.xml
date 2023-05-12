@@ -1,0 +1,13 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="SHOPweb22222">
+    <output-path>$PROJECT_DIR$/out/artifacts/SHOPweb22222</output-path>
+    <root id="archive" name="SHOPweb22222.war">
+      <element id="dir-copy" path="$PROJECT_DIR$/../SHOPweb22222 - 副本/web" />
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="SHOPweb" />
+        </element>
+      </element>
+    </root>
+  </artifact>
+</component>
